@@ -1,2 +1,3 @@
 # four_card
-Frontend Mentor Four Card Feature Challange(https://www.frontendmentor.io/)
+
+This is my version of Four Card Feature Challange from Frontend Mentor (https://www.frontendmentor.io/)
