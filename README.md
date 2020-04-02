@@ -2,4 +2,4 @@
 
 This is my version of Four Card Feature Challange from Frontend Mentor (https://www.frontendmentor.io/)
 
-edited
+edited from github.com
